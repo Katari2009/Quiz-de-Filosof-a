@@ -1,0 +1,5 @@
+{
+  "name": "PhiloQuest: The Socratic Challenge",
+  "description": "An educational gamified application designed to test and expand your knowledge of philosophy. Answer challenging multiple-choice questions, track your score, and get detailed explanations from an AI tutor powered by Gemini to deepen your understanding of key philosophical concepts.",
+  "requestFramePermissions": []
+}
